@@ -1,3 +1,11 @@
 ### Welcome 👋
 
-I am a **Senior Research Engineer** with 8 years' experience, a growth mindset, and a passion for **Natural Language Understanding** with Self-Supervised Learning. Both independently and in teams, I have been working on **extracting, exploring, and analyzing** information and **knowledge** from texts and **scientific literatur**e. A great motivation for me is to do so with committed people and building upon **state-of-the-art research** and **cutting-edge Python technologies**. I hold a Master of Science in **Machine Learning, Data Science, and Engineering** from a French 'Grande École' (2013).
+A **growth** mindset.
+
+Love to build upon state-of-the-art **research** and cutting-edge Python technologies.
+
+Expert in building AI solutions, from the **vision** to the algorithms by way of the architecture.
+
+Specialized in making fast and easy to **access and analyze knowledge** hidden in large collections of text documents.
+
+Experienced in both **Natural Language Processing** (NLP) and **Knowledge Graphs** (KG), with **Deep Learning** and **Big Data**.
